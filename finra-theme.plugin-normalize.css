@@ -1,0 +1,128 @@
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*
+ * Typography
+ * --------------------------------------------------
+ * Font, line-height, and color for body text, headings, and more.
+ * Mobile first
+ */
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+/*! normalize.css v3.0.0 | HTML5 Display Definitions | MIT License | git.io/normalize */
+
+html, body {
+padding: 0;
+overflow-x: hidden;
+overflow-y: auto;
+position: relative;
+margin: 0px
+}
+
+/*! normalize.css v3.0.0 | Links | MIT License | git.io/normalize */
+.finra_normalize_prefix a {
+  background: transparent; }
+
+.finra_normalize_prefix a:active,
+.finra_normalize_prefix a:hover {
+  outline: 0; }
+
+/*! normalize.css v3.0.0 | Typography | MIT License | git.io/normalize */
+
+
+.finra_normalize_prefix b,
+.finra_normalize_prefix strong {
+  font-weight: bold; }
+
+
+.finra_normalize_prefix h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/*! normalize.css v3.0.0 | Embedded Content | MIT License | git.io/normalize */
+.finra_normalize_prefix img {
+  border: 0; }
+
+
+.finra_normalize_prefix hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/*! normalize.css v3.0.0 | Forms | MIT License | git.io/normalize */
+.finra_normalize_prefix button,
+.finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix input,
+.finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix optgroup,
+.finra_normalize_prefix .finra_normalize_prefix select,
+.finra_normalize_prefix textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0; }
+
+.finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix button {
+  overflow: visible; }
+
+.finra_normalize_prefix .finra_normalize_prefix .finra_normalize_prefix button,
+.finra_normalize_prefix .finra_normalize_prefix select {
+  text-transform: none; }
+
+.finra_normalize_prefix button,
+.finra_normalize_prefix html input[type="button"],
+.finra_normalize_prefix input[type="reset"],
+.finra_normalize_prefix input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer; }
+
+.finra_normalize_prefix button[disabled],
+.finra_normalize_prefix html input[disabled] {
+  cursor: default; }
+
+.finra_normalize_prefix button::-moz-focus-inner,
+.finra_normalize_prefix input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+.finra_normalize_prefix input {
+  line-height: normal; }
+
+.finra_normalize_prefix input[type="checkbox"],
+.finra_normalize_prefix input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0; }
+
+.finra_normalize_prefix input[type="number"]::-webkit-inner-spin-button,
+.finra_normalize_prefix input[type="number"]::-webkit-outer-spin-button {
+  height: auto; }
+
+.finra_normalize_prefix input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+.finra_normalize_prefix input[type="search"]::-webkit-search-cancel-button,
+.finra_normalize_prefix input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+
+.finra_normalize_prefix textarea {
+  overflow: auto; }
+
+.finra_normalize_prefix optgroup {
+  font-weight: bold; }
+
+/*! normalize.css v3.0.0 | Tables | MIT License | git.io/normalize */
+.finra_normalize_prefix table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.finra_normalize_prefix .finra_normalize_prefix td,
+.finra_normalize_prefix th {
+  padding: 0; }
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  *behavior: url('../behaviors/box-sizing/boxsizing.php'); }
